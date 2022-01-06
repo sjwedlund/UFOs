@@ -4,7 +4,7 @@
 The purpose of this analysis is to create a webpage using the data.js file of UFO sightings, that allows users to filter for multiple criteria at the same time. Using Javascript and HTML, table filters for the date, city, state, country, and shape have been added. 
 
 ## Results
-To peform a search, start by entering a date in MM/DD/YYYY format. All sightings from the data.js file on that date will load.  
+To perform a search, start by entering a date in MM/DD/YYYY format. All sightings from the data.js file on that date will load.  
 <img width="1680" alt="Screen Shot 2021-09-12 at 3 52 42 PM" src="https://user-images.githubusercontent.com/85920136/133005317-e0dc9132-50ab-4f9e-b25a-959ef47e8a58.png">
 Or, enter a city. The page will need to be refreshed in order to start a new search, or the old search term must be deleted. 
 <img width="1680" alt="Screen Shot 2021-09-12 at 3 59 29 PM" src="https://user-images.githubusercontent.com/85920136/133005431-e6064844-f72a-4e1d-8fb5-ee39520741f9.png">
